@@ -1,24 +1,37 @@
-﻿string[] arr1 = new string[5] {"123", "23", "hello", "world", "res"};
-string[] arr2 = new string[arr1.Length];
-void SecondArrayWithIF(string[] array1, string[] array2)
+﻿Console.Write("Сколько элементов Вы хотите ввести? ");
+int size = Convert.ToInt32(Console.ReadLine());
+
+string[] arrayStrings = new string[size];
+for (int i = 0; i < size; i++)
 {
-    int count = 0;
-    for (int i = 0; i < array1.Length; i++)
+    Console.WriteLine($"Введите {i+1}-й элемент: ");
+    string element = Convert.ToString(Console.ReadLine());
+    arrayStrings[i] = element;
+}
+
+string[] arrayFinal = new string[size];
+int len = 3;
+int pos = 0;
+
+for (int j = 0; j < size; j++)
+{
+    if (arrayStrings[j].Length <= len)
     {
-    if(arr1[i].Length <= 3)
-        {
-        arr2[count] = arr1[i];
-        count++;
-        }
+        arrayFinal[pos] = arrayStrings[j];
+        pos++;
     }
 }
-void PrintArray(string[] arr)
+
+Console.WriteLine();
+PrintArray(arrayFinal);
+
+
+void PrintArray(string[] array)
 {
-    for (int i = 0; i < arr.Length; i++)
+    for (int i = 0; i < array.Length; i++)
     {
-        Console.Write($"{arr[i]} ");
+        Console.Write(array[i] + " ");
     }
     Console.WriteLine();
 }
-SecondArrayWithIF(arr1, arr2);
-PrintArray(arr2);
+
