@@ -1,0 +1,15 @@
+C:\Users\i.popkov\Desktop\ItogProgect\Zadacha\obj\Debug\net7.0\Zadacha.csproj.AssemblyReference.cache
+C:\Users\i.popkov\Desktop\ItogProgect\Zadacha\obj\Debug\net7.0\Zadacha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i.popkov\Desktop\ItogProgect\Zadacha\obj\Debug\net7.0\Zadacha.AssemblyInfoInputs.cache
+C:\Users\i.popkov\Desktop\ItogProgect\Zadacha\obj\Debug\net7.0\Zadacha.AssemblyInfo.cs
+C:\Users\i.popkov\Desktop\ItogProgect\Zadacha\obj\Debug\net7.0\Zadacha.csproj.CoreCompileInputs.cache
+C:\Users\i.popkov\Desktop\ItogProgect\Zadacha\bin\Debug\net7.0\Zadacha.exe
+C:\Users\i.popkov\Desktop\ItogProgect\Zadacha\bin\Debug\net7.0\Zadacha.deps.json
+C:\Users\i.popkov\Desktop\ItogProgect\Zadacha\bin\Debug\net7.0\Zadacha.runtimeconfig.json
+C:\Users\i.popkov\Desktop\ItogProgect\Zadacha\bin\Debug\net7.0\Zadacha.dll
+C:\Users\i.popkov\Desktop\ItogProgect\Zadacha\bin\Debug\net7.0\Zadacha.pdb
+C:\Users\i.popkov\Desktop\ItogProgect\Zadacha\obj\Debug\net7.0\Zadacha.dll
+C:\Users\i.popkov\Desktop\ItogProgect\Zadacha\obj\Debug\net7.0\refint\Zadacha.dll
+C:\Users\i.popkov\Desktop\ItogProgect\Zadacha\obj\Debug\net7.0\Zadacha.pdb
+C:\Users\i.popkov\Desktop\ItogProgect\Zadacha\obj\Debug\net7.0\Zadacha.genruntimeconfig.cache
+C:\Users\i.popkov\Desktop\ItogProgect\Zadacha\obj\Debug\net7.0\ref\Zadacha.dll
