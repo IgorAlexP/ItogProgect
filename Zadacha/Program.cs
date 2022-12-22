@@ -1,4 +1,4 @@
-﻿Console.Write("Сколько элементов Вы хотите ввести? ");
+﻿Console.Write("Введите количество элементов в массиве: ");
 int size = Convert.ToInt32(Console.ReadLine());
 
 string[] arrayStrings = new string[size];
@@ -28,10 +28,12 @@ PrintArray(arrayFinal);
 
 void PrintArray(string[] array)
 {
+    Console.Write("[ ");
     for (int i = 0; i < array.Length; i++)
     {
         Console.Write(array[i] + " ");
     }
+    Console.Write("]");
     Console.WriteLine();
 }
 
